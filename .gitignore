@@ -1,0 +1,15 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+**/DataProcessed/*
+**/DataRaw/*
+!**/ReadMe.md
+*.csv
+*.png
+*.html
+*.RData
+*.rda
+
+
+
